@@ -9,7 +9,7 @@ An attempt to build a audio player for kids based on the low cost Raspberry Pi a
 | Push Buttons                                                                       | 16       |[Reichelt](https://www.reichelt.de/Drucktaster-Druckschalter/MS-131-RT/3/index.html?&ACTION=3&LA=2&ARTICLE=13136&GROUPID=3277&artnr=MS+131+RT)        | 13,92     |
 | 4.7k Pullup resistors                                                              | 1       |[Reichelt](https://www.reichelt.de/1W-5-1-0-k-Ohm-820-k-Ohm/1W-10K/3/index.html?&ACTION=3&LA=2&ARTICLE=1779&GROUPID=6515&artnr=1W+10K)        | 2,46     |
 | Wires                                                                                 | 1m      |[Reichelt](https://www.reichelt.de/LITZE-RT/3/index.html?&ACTION=3&LA=446&ARTICLE=10297&artnr=LITZE+RT&SEARCH=draht)        |      0,74  |
-| An old, unused loudspeaker                                                            | 1       | Grabbelkiste       |  0,00      |
+| An old, unused loudspeaker                                                            | 1       | [Ebay](http://www.ebay.de/sch/i.html?_from=R40&_sacat=0&LH_ItemCondition=3000&_mPrRngCbx=1&_udlo=0&_udhi=15&_nkw=lautsprecher&_sop=15)       |  0,00      |
 | Einschlagmuttern                                                                      | 4       | [Reichelt](https://www.reichelt.de/Einschlagmuttern/SKEM-M8-4/3/index.html?&ACTION=3&LA=2&ARTICLE=65834&GROUPID=2765&artnr=SKEM+M8-4&SEARCH=Einschlagmuttern)        |  1,90      |
 |Schrauben  | 4 | Grabbelkiste | 0,00 |
 |Power Bank | 1 | [Reichelt](https://www.reichelt.de/LITZE-RT/3/index.html?&ACTION=3&LA=446&ARTICLE=10297&artnr=LITZE+RT&SEARCH=draht) | 10,10 |
