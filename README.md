@@ -1,7 +1,8 @@
 # moep
 An attempt to build a audio player for kids based on the low cost Raspberry Pi and some other cheap parts an open source software
 
-## Parts list
+## Mechanics
+### Parts list
 | Item                                                                            |    Amount     | Shop      |   Total  Cost        |
 |:------------- |:------------- |:-----|:-----|
 | Raspberry Pi, whatever model is available. Preferably the Pi Zero because it so cheap | 1       |  [Reichelt](https://www.reichelt.de/RASP-PI-ZERO/3/index.html?&ACTION=3&LA=446&ARTICLE=162609&artnr=RASP+PI+ZERO&SEARCH=pi+zero)          | 14,5              |
