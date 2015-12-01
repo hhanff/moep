@@ -1,5 +1,5 @@
 # moep
-An attempt to build a audio player for kids based on the low cost Raspberry Pi and some other cheap parts an open source software
+An attempt to build an audio player for kids whic is based on the low cost Raspberry Pi, some other cheap parts and open source software
 
 ## Mechanics
 ### Parts list
@@ -17,5 +17,9 @@ An attempt to build a audio player for kids based on the low cost Raspberry Pi a
 |Micro USB Verlägnerung für Power Bank | 1 | [Reichelt](https://www.reichelt.de/DELOCK-83567/3/index.html?&ACTION=3&LA=446&ARTICLE=154180&artnr=DELOCK+83567&SEARCH=micro+usb+verl%E4ngerung) | 1,95 | 
 |USB Stick | 1 | [Reichelt](https://www.reichelt.de/USB-Sticks/INTENSO-3521482/3/index.html?&ACTION=3&LA=2&ARTICLE=126579&GROUPID=4798&artnr=INTENSO+3521482&SEARCH=USB+STICK) | 7,95 | 
 |USB Einbaubuchse zum Laden... muss hier Mikro USB? Wenn ja, dann bei [Völkner](https://www.google.com/search?q=micro+usb+einbaubuchse&num=50&client=ubuntu&hs=G6R&channel=fs&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwiT57b13LrJAhUBRg8KHVidBUAQsAQIQQ&biw=1600&bih=783#imgrc=41ZuH-PlmpT1OM%3A) gucken | 1 | [Reichelt](https://www.reichelt.de/?ARTICLE=63200&PROVID=2788&wt_mc=amc141526782519998&gclid=CjwKEAiAp_WyBRD37bGB_ZO9qAYSJAA72Ikgr4U6eCZOYUHfec36b8NABRVWskuhGlsWBaMMMufpfRoC8IXw_wcB) | 4,95 |
+
+## Software
+-  [Rapsbian](https://www.raspberrypi.org/downloads/raspbian/)
+- [RPi.GPIO](http://makezine.com/projects/tutorial-raspberry-pi-gpio-pins-and-python/), a library pre-installed on the current [Rapsbian](https://www.raspberrypi.org/downloads/raspbian/)
 
 
