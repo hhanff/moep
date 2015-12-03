@@ -1,5 +1,5 @@
 # moep
-An attempt to build an audio player for kids whic is based on the low cost Raspberry Pi, some other cheap parts and open source software
+An attempt to build an audio player for kids which is based on the low cost Raspberry Pi, some other cheap parts and open source software
 
 ## Mechanics
 ### Parts list
