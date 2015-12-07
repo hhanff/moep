@@ -21,6 +21,7 @@ An attempt to build an audio player for kids which is based on the low cost Rasp
 
 ## Hardware
 The hardware (e.g. wiring) will be documented in KiCAD.
+- [Audio on Pi Zero](https://hackaday.com/2015/12/05/swapping-gpio-pins-on-the-pi-zero-for-audio/)
 
 ## Software
 - [Rapsbian](https://www.raspberrypi.org/downloads/raspbian/)
