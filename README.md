@@ -28,3 +28,12 @@ The hardware (e.g. wiring) will be documented in KiCAD.
 - [RPi.GPIO](http://makezine.com/projects/tutorial-raspberry-pi-gpio-pins-and-python/), a library pre-installed on the current [Rapsbian](https://www.raspberrypi.org/downloads/raspbian/)
 - [Python and Unix/Linux System calls](http://www.cyberciti.biz/faq/python-execute-unix-linux-command-examples/)
 
+
+
+## Alternatives
+- http://beza1e1.tuxen.de/raspberry_rfid_music_player.html
+- http://phoniebox.de/
+- https://makershare.com/projects/okkophon
+
+## Podcasts
+- https://www.ohrenbaer.de/
