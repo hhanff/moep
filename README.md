@@ -34,6 +34,7 @@ The hardware (e.g. wiring) will be documented in KiCAD.
 - http://beza1e1.tuxen.de/raspberry_rfid_music_player.html
 - http://phoniebox.de/
 - https://makershare.com/projects/okkophon
+- https://www.heise.de/make/meldung/Tonuino-DIY-Musikbox-mit-RFID-Karten-und-Arduino-4155010.html
 
 ## Podcasts
 - https://www.ohrenbaer.de/
